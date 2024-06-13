@@ -1,0 +1,70 @@
+{
+    "create": {
+      "name": "lar das crianças felizes",
+      "description": "o lar das crianças felizes oferece um ambiente acolhedor e seguro para crianças de 0 a 12 anos. o local conta com uma equipe dedicada de educadores e cuidadores, proporcionando atividades educativas e recreativas que incentivam o desenvolvimento pessoal e social. além disso, as crianças recebem acompanhamento psicológico e apoio escolar para garantir um crescimento saudável e feliz. o objetivo é criar um ambiente onde cada criança possa se sentir amada e valorizada, superando traumas e dificuldades.",
+      "opening_hours": "segunda a sexta, das 08:00 às 18:00",
+      "open_on_weekends":false,
+      "position": {
+            "latitude": -23.594073,
+            "longitude": -46.682376
+        },
+        "image": "kids-playground-1.png"
+    },
+    "duplicate": {
+      "name": "casa de amparo esperança",
+      "description": "a casa de amparo esperança proporciona um lar seguro e amoroso para crianças e adolescentes em situação de vulnerabilidade. aqui, cada criança recebe atenção personalizada, com programas de educação, saúde e lazer. a casa também oferece oficinas de arte, música e esportes, ajudando na formação integral dos jovens. o objetivo é proporcionar um ambiente que não apenas acolha, mas que também prepare os jovens para um futuro promissor, cheio de oportunidades e realizações pessoais.",
+      "opening_hours": "segunda a sexta, das 09:00 às 17:00",
+      "open_on_weekends": true,
+      "position": {
+            "latitude": -23.596450940802633,
+            "longitude": -46.68912934156518
+        },
+        "image": "kids-playground-5.png"
+    },
+    "required":{
+      "name": "abrigo são francisco",
+      "description": "o abrigo são francisco atende crianças de 0 a 14 anos, oferecendo suporte emocional, educacional e recreativo. o abrigo conta com uma equipe de profissionais qualificados, incluindo psicólogos, pedagogos e assistentes sociais. as crianças participam de atividades que estimulam a criatividade e o aprendizado, além de receberem cuidados médicos e nutricionais. o objetivo é proporcionar um ambiente onde as crianças possam se sentir seguras e desenvolvam suas habilidades de maneira integral.",
+      "opening_hours": "segunda a sábado, das 07:00 às 19:00",
+      "opening_on_weekends": true,
+      "position":{
+        "latitude": -23.597249796619813,
+        "longitude": -46.68735602698581
+      },
+      "image": "kids-playground-7.png"
+    },
+    "other3":{
+      "name": "centro de acolhimento luz e vida",
+      "description": "o centro de acolhimento luz e vida oferece apoio integral a crianças e adolescentes, focando no desenvolvimento pessoal e escolar. com uma estrutura moderna e acolhedora, o centro oferece atividades educativas, recreativas e culturais. as crianças têm acesso a atendimento psicológico e médico, além de participarem de programas de reforço escolar e oficinas de capacitação. o objetivo é criar um ambiente que estimule o crescimento saudável e a autonomia dos jovens, preparando-os para a vida adulta.",
+      "opening_hours": "segunda a sexta, das 08:00 às 18:00"
+    },
+    "other4":{
+      "name": "lar esperança e amor",
+      "description": "o lar esperança e amor cuida de crianças órfãs, oferecendo um ambiente familiar e programas de reintegração social. aqui, as crianças são acolhidas por uma equipe carinhosa e dedicada, que promove atividades que vão desde o apoio escolar até o lazer. o lar oferece ainda acompanhamento psicológico e médico, garantindo um desenvolvimento saudável. o objetivo é proporcionar um ambiente onde as crianças se sintam parte de uma grande família, superando traumas e se preparando para um futuro melhor.",
+      "opening_hours": "segunda a domingo, das 08:00 às 20:00"
+    },
+    "other5":{
+      "name": "casa de proteção criança feliz",
+      "description": "a casa de proteção criança feliz oferece abrigo e educação para crianças de 0 a 12 anos, promovendo o desenvolvimento integral. o local conta com uma equipe de educadores, psicólogos e assistentes sociais, que trabalham juntos para oferecer um ambiente seguro e estimulante. as crianças participam de atividades que incentivam o aprendizado e a socialização, além de receberem cuidados médicos e nutricionais. o objetivo é garantir que cada criança tenha a oportunidade de crescer de maneira saudável e feliz.",
+      "opening_hours": "segunda a sexta, das 07:00 às 17:00"
+    },
+    "other6":{
+      "name": "refúgio da criança",
+      "description": "o refúgio da criança proporciona um lar temporário para crianças em situação de risco, com atividades educativas e recreativas. o refúgio conta com uma equipe de profissionais dedicados, que oferecem apoio psicológico, educacional e médico. as crianças têm acesso a atividades que estimulam o aprendizado e a criatividade, além de participarem de programas de lazer e esportes. o objetivo é criar um ambiente acolhedor e seguro, onde as crianças possam se recuperar de traumas e se desenvolver de forma saudável.",
+      "opening_hours": "segunda a sexta, das 09:00 às 18:00"
+    },
+    "other7":{
+      "name": "abrigo novo amanhecer",
+      "description": "o abrigo novo amanhecer acolhe crianças e adolescentes, oferecendo suporte emocional e educacional. com uma infraestrutura moderna e uma equipe qualificada, o abrigo promove atividades que vão desde o reforço escolar até oficinas de arte e música. as crianças recebem acompanhamento psicológico e cuidados médicos, garantindo um desenvolvimento integral. o objetivo é proporcionar um ambiente onde os jovens possam superar desafios e construir um futuro cheio de possibilidades e realizações.",
+      "opening_hours": "segunda a sábado, das 08:00 às 18:00"
+    },
+    "other8": {
+      "name": "casa de acolhimento estrela guia",
+      "description": "a casa de acolhimento estrela guia oferece um ambiente seguro e acolhedor para crianças e adolescentes em situação de vulnerabilidade. com uma equipe de profissionais dedicados, a casa proporciona atividades educativas, recreativas e culturais. as crianças recebem acompanhamento psicológico, médico e nutricional, além de participarem de programas de reforço escolar e oficinas de capacitação. o objetivo é garantir que cada criança tenha a oportunidade de se desenvolver de maneira saudável e feliz, preparando-se para um futuro melhor.",
+      "opening_hours": "segunda a sexta, das 07:30 às 17:30"
+    },
+    "other9":{
+      "name": "lar do amanhã",
+      "description": "o lar do amanhã cuida de crianças órfãs, focando no desenvolvimento integral e na reintegração social. com uma equipe carinhosa e dedicada, o lar oferece atividades que vão desde o apoio escolar até o lazer, passando por oficinas de arte e música. as crianças recebem acompanhamento psicológico e médico, garantindo um desenvolvimento saudável e equilibrado. o objetivo é proporcionar um ambiente onde as crianças se sintam amadas e seguras, preparadas para enfrentar os desafios do futuro e conquistar seus sonhos.",
+      "opening_hours": "segunda a domingo, das 09:00 às 19:00"
+    }
+}
